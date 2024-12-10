@@ -1,3 +1,3 @@
-This is your website, Sam! x
+This is your website, Sam!
 
 
