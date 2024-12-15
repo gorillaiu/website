@@ -135,5 +135,10 @@ ul.main-menu li a.active {
 .show {
   display:block;
 }
-
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ /* width: 50%; */
+}
 
