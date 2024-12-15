@@ -100,16 +100,12 @@ body {
   max-width:850px;
   margin:25px auto;
 }
-#content, footer { 
+header, #content, footer { 
   background: rgba(0,0,0,.8); 
   padding:25px;
   color:#FFFFFF; 
 }
-header { 
-  background: rgba(0,0,0,.8); 
-  padding:25px;
-  color:#FFEE58; 
-}
+
 /* Menu Links */
 ul.main-menu {
   margin: 0;
