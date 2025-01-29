@@ -142,3 +142,6 @@ ul.main-menu li a.active {
   margin-right: auto;
 }
 
+img {
+  max-width:100%; height:auto;
+}
