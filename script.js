@@ -53,7 +53,7 @@ function topFunction() {
 // Button script:
 
 // Get the button:
-let mybutton = document.getElementById("myBtn2");
+let mybutton2 = document.getElementById("myBtn2");
 
 // When the user scrolls down 150px from the top of the document, show the button
 window.onscroll = function() {scrollFunction()};
